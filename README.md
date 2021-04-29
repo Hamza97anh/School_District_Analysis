@@ -47,7 +47,7 @@ Type of school and their average performace:![type_summary_df](https://github.co
 ## Summary:
 
 - The placement of Thomas High School dropped from being a top performer to an average school
-- A drop in the percentages for spending of less then $584 per student
+- A drop in the percentages for spending in the range of $630-644 per student
 - Charter remains higher then District but by a smaller gap
 - Small schools still out perform medium and large schools
 
