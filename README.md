@@ -37,3 +37,18 @@ Size of the student body and impact on performance chart:![size_summary_df](http
 
 Type of school and their average performace:![type_summary_df](https://github.com/Hamza97anh/School_District_Analysis/blob/main/Images/type_summary_df.PNG)
 
+
+- As far as the over all district summary is concerned. The major and most noticible effect was the replacement of Thomas High School where they were only second from the top five schools, and now they're ranked closer to the bottom. As far as over all averages, the effects were marginal since the average is taking such a large sample size so when doing an over all assesment about funding and whether charter is better than district schools that conclusion will likely be the same. 
+- The school summary is most affected since Thomas High School is now ranked average as opposed to being a top rated school.
+- Thomas High School prior to the omission of the 9th grade scores had an overall passing percentage of about 91%. After the correction is made, the overall passing is dropped to 63%. This is a more realistic score when compared to other scores in the district. 
+  - Math and Reading scores dropped to around the 60%-70% from 90%-100%
+  - Scores by school spending, school size and school type were only marginally affected since the average takes a much larger sample size. 
+
+## Summary:
+
+- The placement of Thomas High School dropped from being a top performer to an average school
+- A drop in the percentages for spending of less then $584 per student
+- Charter remains higher then District but by a smaller gap
+- Small schools still out perform medium and large schools
+
+
